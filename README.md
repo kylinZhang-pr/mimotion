@@ -58,8 +58,8 @@
   {
     "USER": "abcxxx@xx.com",
     "PWD": "password",
-    "MIN_STEP": "18000",
-    "MAX_STEP": "25000",
+    "MIN_STEP": "88888",
+    "MAX_STEP": "98800",
     "PUSH_PLUS_TOKEN": "",
     "PUSH_PLUS_HOUR": "",
     "PUSH_PLUS_MAX": "30",
@@ -91,8 +91,8 @@
 {
   "USER": "13800138000#13800138001",
   "PWD": "abc123qwe#abcqwe2",
-  "MIN_STEP": "18000",
-  "MAX_STEP": "25000",
+  "MIN_STEP": "88888",
+  "MAX_STEP": "98800",
   "PUSH_PLUS_TOKEN": "",
   "PUSH_PLUS_HOUR": ""
 }
